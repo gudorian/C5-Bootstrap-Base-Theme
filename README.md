@@ -2,7 +2,7 @@
 This is a base theme for developing a Concrete5.7 Bootstrap 3 theme.
 
 ##Includes
-* Bootstrap 3 - v 3.20
+* Bootstrap 3 - v3.3.2
 * Autonav block template for Bootstrap 3 navbar
 * Basic template files
 
