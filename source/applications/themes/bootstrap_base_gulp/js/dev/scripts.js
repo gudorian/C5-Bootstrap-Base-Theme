@@ -1,0 +1,7 @@
+/**
+ * Empty js file
+ */
+
+$(function(){
+
+});
