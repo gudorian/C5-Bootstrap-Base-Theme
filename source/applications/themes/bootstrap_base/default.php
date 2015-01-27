@@ -8,6 +8,7 @@
     <div class="row">
       <div class="col-md-12">
         <?php $a->display($c); ?>
+        <hr>
       </div>
     </div>
   </section>
