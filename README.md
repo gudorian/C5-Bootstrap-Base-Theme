@@ -11,7 +11,7 @@ This is a base theme for developing a Concrete5.7 Bootstrap 3 theme.
 ##Todo
 * add package versions
 * Add SASS version
-* Add Gulp.js version
+* ~~Add Gulp.js version~~
 
 ##Gulp install dependencies
 - npm install gulp
