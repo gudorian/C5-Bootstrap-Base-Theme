@@ -31,7 +31,7 @@ This is a base theme for developing a Concrete5.7 Bootstrap 3 theme.
 * http://www.concrete5.org (Concrete5)
 * http://getbootstrap.com (Bootstrap)
 * http://bootswatch.com/flatly (Flatly boostrap theme)
-* http://gulpjs.com (Grunt)
+* http://gulpjs.com (Gulp.js)
 * http://compass-style.org (Compass)
 * http://sass-lang.com (SASS)
 * http://www.ologiskt.com (Ologiskt)
